@@ -1,1 +1,1 @@
-# ci_cd_learning
+# This Repo is created to learn CI CD pipelines testing
